@@ -269,16 +269,16 @@ header {
   gap: 12px;
 }
 
-.header-nav {
+.headerSwiper .swiper-wrapper {
   display: flex;
   justify-content: space-between;
   padding: 0;
   width: 90%;
 }
-.header-nav li {
+.headerSwiper .swiper-wrapper li {
   list-style: none;
 }
-.header-nav li a {
+.headerSwiper .swiper-wrapper li a {
   text-decoration: none;
   font-size: 14px;
   line-height: 100%;
